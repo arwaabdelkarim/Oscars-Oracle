@@ -44,7 +44,7 @@ No Python installation or setup required!
 
 - 🐍 Python 3
 - 🖼 Tkinter (GUI)
-- 🗃 SQL (Database)
+- 🗃 MySQL (Database) using MySQL Workbench
 - 🌐 BeautifulSoup / requests (Web scraping)
 - 🧰 PyInstaller (for creating the `.exe`)
 
@@ -67,7 +67,7 @@ Oscars-Oracle/
 ## 📌 Notes
 
 - Each user's nominations are saved separately.
-- Data is persistent locally via SQL.
+- All data is stored and queried from a MySQL database designed using MySQL Workbench.
 - Input is validated to avoid duplicate or invalid nominations.
 - `.exe` was generated using PyInstaller:
   
