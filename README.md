@@ -16,7 +16,7 @@ No Python installation or setup required!
 
 ## 📸 Demo
 
-🎥 [Click to watch the app in action](demo.mp4)
+🎥 [Click to watch the app in action](https://m.youtube.com/watch?v=N3D52gPo6Pg)
 
 ---
 
